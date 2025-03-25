@@ -1,4 +1,8 @@
 ## Project setup
+```bash
+$ cp .env.example .env
+```
+
 
 ```bash
 $ npm install
